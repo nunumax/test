@@ -6,19 +6,30 @@ namespace testc
 	class MainClass
 	{
 		/// <summary>
-		/// The entry point of the program, where the program control starts and ends.
+		/// オフトゥン
 		/// </summary>
 		/// <param name="args">The command-line arguments.</param>
 		public static void Main (string[] args)
 		{
-			//Console.WriteLine ("Hello World!");
-			//Process.Start(@"notepad.exe");
-			Console.WriteLine ("_(:3｣∠)_");
-			Console.WriteLine ("(:3 _ )=");
-			Console.WriteLine ("(:3_ヽ)_");
-			Console.WriteLine ("⊂⌒っ*-ω-)っＺｚｚ…");
-			Console.WriteLine ("_(:3」[＿]");
-
+			Console.WriteLine ("　               (:3[布団]");
+			Console.ReadKey ();
+			Console.WriteLine ("              (:3っ[布団]");
+			Console.ReadKey ();
+			Console.WriteLine ("             (:3っ)[布団]");
+			Console.ReadKey ();
+			Console.WriteLine ("           (:3っ)っ[布団]");
+			Console.ReadKey ();
+			Console.WriteLine ("        (:3っ)っ -=[布団]");
+			Console.ReadKey ();
+			Console.WriteLine ("      (:3っ)っ -=三[布団]");
+			Console.ReadKey ();
+			Console.WriteLine ("    (:3っ)っ -=三三[布団]");
+			Console.ReadKey ();
+			Console.WriteLine ("  (:3っ)っ -=三三三[布団]");
+			Console.ReadKey ();
+			Console.WriteLine ("(:3っ)っ -=三三三三[布団]");
+			Console.ReadKey ();
+			Console.Clear ();
 		}
 	}
 }
