@@ -1,4 +1,5 @@
 using System;
+using System.Diagnostics;
 
 namespace testc
 {
@@ -6,7 +7,8 @@ namespace testc
 	{
 		public static void Main (string[] args)
 		{
-			Console.WriteLine ("Hello World!");
+			//Console.WriteLine ("Hello World!");
+			Process.Start(@"notepad.exe");
 		}
 	}
 }
